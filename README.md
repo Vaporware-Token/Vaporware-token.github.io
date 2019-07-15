@@ -9,4 +9,4 @@
     <p align="center">This is purly for the memes. This token was created to show that anyone can do it.</p>
     <p align="center">Don't let others gatekeep you. Have fun. ( ͡° ͜ʖ ͡°)</p>
     <p align="left">Check out our website below ( ͡° ͜ʖ ͡°)</p>
-    <li><a href="https://vaporwaretoken.github.io/" target="_blank">https://vaporwaretoken.github.io/</a></li>
+    <li><a href="https://vaporwaretoken.github.io">vaporwaretoken.github.io</a></li>
