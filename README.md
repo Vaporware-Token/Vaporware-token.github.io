@@ -1,4 +1,3 @@
-# Vaporwaretoken.github.io
 <body>
     <p align="center"> <img width="256" height="256" src="https://raw.githubusercontent.com/Vaporware-Token/Vaporware-token.github.io/master/images/vaporware-256.png"> </p>
     <h1 align="center">Welcome to the ERC-20 Vaporware token GitHub.</h1>
