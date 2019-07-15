@@ -1,1 +1,1 @@
-# Vaporware-token.github.io
+# Vaporwaretoken.github.io
