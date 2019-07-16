@@ -1,6 +1,7 @@
 body {
   margin: 60px auto;
   width: 70%;
+  background-color: rgb(48, 48, 48);
 }
 
 nav ul,
@@ -19,7 +20,7 @@ footer ul li {
 
 a {
   text-decoration: none;
-  color: #0B0C10;
+  color: #a6a4a4;
 }
 
 a:hover {
@@ -29,22 +30,22 @@ a:hover {
 h1 {
   font-size: 3em;
   font-family: 'Helvetica', 'Arial', 'Sans-Serif';
-  color: #0B0C10;
+  color: #848484;
 }
 
 h2 {
   font-family: 'Helvetica', 'Arial', 'Sans-Serif';
-  color: #0B0C10;
+  color: #707070;
 }
 
 p {
   font-size: 1.5em;
   line-height: 1.4em;
-  color: #0B0C10;
+  color: #707070;
 }
 
 footer {
-  border-top: 1px solid #0B0C10;
+  border-top: 1px solid #707070;
   font-size: 0.8em;
 }
 
