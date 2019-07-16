@@ -28,22 +28,24 @@ a:hover {
 }
 
 h1 {
-  font-size: 2em;
+  font-size: 2.3em;
   font-family: 'Helvetica', 'Arial', 'Sans-Serif';
   color: #848484;
 }
 
 h2 {
-  font-size: 1.3em;
+  font-size: 1.5em;
   font-family: 'Helvetica', 'Arial', 'Sans-Serif';
-  color: #707070;
+    line-height: 1.5em;
+  color: #848484;
   text-align: center;
 }
 
 p {
-  font-size: 1em;
+  font-size: 1.2em;
+  font-family: 'Helvetica', 'Arial', 'Sans-Serif';
   line-height: 1.5em;
-  color: #747474;
+  color: #848484;
   text-align: center;
 }
 
