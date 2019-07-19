@@ -1,6 +1,6 @@
 body {
-  margin: 10px auto;
-  width: 70%;
+  margin: 10px;
+  width: 70% auto;
   background-color: rgb(30, 30, 30);
 }
 
@@ -63,4 +63,11 @@ ul.posts { /* easter egg */
 
 ul.posts li {
   list-style: none;
+}
+
+form {
+  display: block;
+  margin-top: 1.5em;
+  margin-bottom: 2.8em;
+  text-align: center;
 }
