@@ -1,6 +1,6 @@
 <body>
     <p align="center"> <img width="256" height="256" src="https://raw.githubusercontent.com/Vaporware-Token/Vaporware-token.github.io/master/images/vaporware-256.png"> </p>
-    <h1 align="center">Welcome to the ERC-20 & BEP20 Vaporware token GitHub.</h1>
+    <h1 align="center">Welcome to the ERC-20 & BEP-20 Vaporware token GitHub.</h1>
     <h2 align="center">Contract address: 0x9ea085bc45639372e7389e5c5069a86cac5a03bf</h2>
     <p align="center">Vaporware (VAP) has a 21,000,000 token supply and goes out to 18 decimals. It does <em>nothing</em> and will <em>never</em> be finished.</p>
     <p align="center">It has <strong>no</strong> ICO. <strong>No</strong> advertisements. <strong>No</strong> CEO. <strong>No</strong> DOA. <strong>No</strong> funding. <strong>No</strong> advisers. <strong>No</strong> email. <strong>No</strong> support. <strong>No</strong> presale.</p>
