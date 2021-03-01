@@ -3,8 +3,8 @@
     <h1 align="center">Welcome to the ERC-20 & BEP-20 Vaporware token GitHub.</h1>
     <h2 align="center">Contract address: 0x9ea085bc45639372e7389e5c5069a86cac5a03bf</h2>
     <p align="center">Vaporware (VAP) has a 21,000,000 token supply and goes out to 18 decimals. It does <em>nothing</em> and will <em>never</em> be finished.</p>
-    <p align="center">It has <strong>no</strong> ICO. <strong>No</strong> advertisements. <strong>No</strong> CEO. <strong>No</strong> DOA. <strong>No</strong> funding. <strong>No</strong> advisers. <strong>No</strong> email. <strong>No</strong> support. <strong>No</strong> presale.</p>
-    <p align="center"><strong>No</strong> website cookies. <strong>No</strong> token swap. <strong>No</strong> inflation. <strong>No</strong> remote freezing. <strong>No</strong> analytics. <strong>No</strong> threat to national security.
+    <p align="center">It has <strong>no</strong> ICO. <strong>No</strong> advertisements. <strong>No</strong> CEO. <strong>No</strong> innovation. <strong>No</strong> funding. <strong>No</strong> advisers. <strong>No</strong> email. <strong>No</strong> support. <strong>No</strong> presale.</p>
+    <p align="center"><strong>No</strong> website cookies. <strong>No</strong> speculation. <strong>No</strong> inflation. <strong>No</strong> remote freezing. <strong>No</strong> analytics. <strong>No</strong> threat to national security.
     <p align="center"><strong>No</strong> official social media accounts. <strong>No</strong> canvas or web font tracking on our end (NSA) and we are <strong><em>not</em></strong> selling.</p>
     <p align="center">All tokens are given away at random, just ask for some.</p>
     <p align="center">This is purly for the memes and was created to show anyone can do it.</p>
